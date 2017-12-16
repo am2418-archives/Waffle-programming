@@ -1,3 +1,4 @@
+   /// Canvas
 var c = document.getElementsByTagName("canvas")[0];
 var ctx = c.getContext("2d");
 var canvasJS = {
