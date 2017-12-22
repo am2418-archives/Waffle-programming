@@ -1,2 +1,2 @@
- [This Project Has Moved Here](https://github.com/Waffleprograming/) <br>
+ [This Project Has Moved Here](https://github.com/waffleprogramming) <br>
  Lisenced Under Mit
